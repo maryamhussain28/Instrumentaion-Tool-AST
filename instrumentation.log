@@ -1,0 +1,6 @@
+{"event": "function_start", "function": "process", "args": "()", "kwargs": "{}", "timestamp": 1774255603.946258}
+{"event": "function_start", "function": "compute", "args": "(10000,)", "kwargs": "{}", "timestamp": 1774255603.9495296}
+{"event": "function_end", "function": "compute", "latency_ms": 5.870342254638672, "timestamp": 1774255603.9554956}
+{"event": "function_start", "function": "compute", "args": "(20000,)", "kwargs": "{}", "timestamp": 1774255603.957574}
+{"event": "function_end", "function": "compute", "latency_ms": 10.939598083496094, "timestamp": 1774255603.9686375}
+{"event": "function_end", "function": "process", "latency_ms": 25.26998519897461, "timestamp": 1774255603.9714117}
